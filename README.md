@@ -1,11 +1,9 @@
-Here’s how you can refine your portfolio for a more professional and UK-specific tone while emphasizing your skills and experience to align with the job market:
 
----
 
 ### **Monika Gulia**  
 **Data Scientist | Financial & Business Analyst**  
 🎓 *Master’s in Data Science* | Greenwich University, London  
-📧 monikagulia0216@gmail.com | 🌐 www.linkedin.com/in/monika-gulia
+📧 monikagulia0216@gmail.com | 🌐 www.linkedin.com/in/monika-gulia |SE288NG(London)
 
 ---
 

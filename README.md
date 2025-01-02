@@ -1,88 +1,91 @@
-## Hi there 👋
+Here’s how you can refine your portfolio for a more professional and UK-specific tone while emphasizing your skills and experience to align with the job market:
+
+---
 
 ### **Monika Gulia**  
 **Data Scientist | Financial & Business Analyst**  
-🎓 Master’s in Data Science | Greenwich University, London  
-📧 monikagulia0216@gmail.com  
+🎓 *Master’s in Data Science* | Greenwich University, London  
+📧 monikagulia0216@gmail.com | 🌐 www.linkedin.com/in/monika-gulia
 
-
+---
 
 ### **About Me**  
-I’m Monika, a data enthusiast passionate about leveraging technology to drive meaningful insights and strategic decision-making. With a solid academic foundation in data science and hands-on experience in finance and business analytics, I aim to combine creativity, precision, and technical expertise to solve complex challenges.  
+I’m Monika, a results-driven data scientist with a strong academic background and practical experience in financial analysis and business intelligence. I specialize in using data to uncover actionable insights, optimize decision-making, and drive impactful solutions. Passionate about leveraging advanced analytics and machine learning to solve real-world problems.
 
-
+---
 
 ### **Skills & Tools**  
 
-#### 🔥 **Core Competencies**  
-- **Programming Languages**: Python, R, SQL  
-- **Data Science & ML**: Predictive Modeling, Data Cleaning, Data Analysis, Random Forest, Stock Market Prediction  
-- **Visualization Tools**: Tableau, Power BI, Matplotlib, Seaborn  
-- **Big Data Tools**: Hadoop, Spark, Neo4j  
+#### 🔍 **Core Competencies**  
+- **Programming**: Python, R, SQL  
+- **Machine Learning**: Predictive Modeling, Data Cleaning, Feature Engineering, Random Forest, Neural Networks  
+- **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn  
 
-#### 🧠 **Technical Skills**  
-- Financial Modeling & Analysis  
-- Business Analytics & Strategic Planning  
-- Machine Learning Algorithms  
+#### 📊 **Technical Expertise**  
+- Financial Modeling & Business Analysis  
+- Natural Language Processing (NLP)  
+- Big Data Tools: Hadoop, Spark, Neo4j  
 
-#### 🎨 **Creative Suite**  
+#### 🎨 **Creative & Productivity Tools**  
 - Microsoft Office Suite (Excel, Word, PowerPoint)  
-- Basics of Adobe Photoshop and Canva
+- Canva & Basic Adobe Photoshop  
 
-#### **Experience**  
+---
 
-**Data Science Intern**  
-   - Developed predictive models and conducted data-driven decision-making projects.  
-   - Applied machine learning algorithms and delivered insights for real-world business cases.  
+### **Professional Experience**  
 
-**Private Math & Data Science Tutor**  
-   - Provided personalized learning plans for students, enhancing their understanding and academic performance in technical subjects.  
+#### **Data Science Intern**  
+- Developed and deployed predictive models, enhancing decision-making processes.  
+- Delivered real-world business insights through advanced data analytics and machine learning algorithms.  
 
-####  **Projects**  
+#### **Private Math & Data Science Tutor**  
+- Created tailored learning plans, improving students’ academic performance in mathematics and technical subjects.  
+
+---
+
+### **Projects**  
 
 #### **1. Stock Market Prediction 📈**  
-- **Objective**: Predict future stock prices using machine learning models.  
-- **Key Features**:  
-  - Used advanced data preprocessing techniques to create rolling windows for trend analysis.  
-  - Applied multiple machine learning models, including Random Forest, to achieve an accuracy of 83.4%.  
-  - Balanced and smoothed noisy financial data for better predictive outcomes.  
+- **Objective**: Predict stock prices using machine learning models.  
+- **Achievements**:  
+  - Achieved an accuracy of 83.4% using Random Forest and other ML algorithms.  
+  - Preprocessed data to handle noise and identify trends through rolling windows.  
 - **Technologies**: Python, NumPy, Pandas, Scikit-learn, Matplotlib.  
 
-
 #### **2. Sentiment Analysis 📝**  
-- **Objective**: Classify product reviews into positive, negative, and neutral sentiments.  
-- **Key Features**:  
-  - Preprocessed textual data, customized stopword handling, and cleaned review datasets.  
-  - Handled class imbalance with SMOTE, achieving an F1 score of 94%.  
-  - Highlighted actionable insights, like categorizing neutral reviews as constructive feedback.  
-- **Technologies**: VADER, Python, NLTK, Scikit-learn, Matplotlib, Seaborn.  
-
+- **Objective**: Classify product reviews into sentiments (positive, neutral, negative).  
+- **Achievements**:  
+  - Achieved an F1 score of 94% by using SMOTE to handle class imbalance.  
+  - Provided actionable insights by categorizing neutral reviews as constructive feedback.  
+- **Technologies**: VADER, Python, NLTK, Scikit-learn, Seaborn.  
 
 #### **3. CNN for Image Classification 🖼️**  
-- **Objective**: Classify images using Convolutional Neural Networks (CNN).  
-- **Key Features**:  
-  - Built a CNN model that connects neurons from the last convolutional layer to each output layer neuron.  
-  - Incorporated ReLU activation for non-linearity and dropout layers to prevent overfitting.  
-  - Trained the model to learn complex visual patterns for accurate predictions.  
+- **Objective**: Classify images using Convolutional Neural Networks.  
+- **Achievements**:  
+  - Built a robust CNN model with dropout layers to prevent overfitting.  
+  - Used ReLU activation for non-linearity and achieved high accuracy in classification.  
 - **Technologies**: TensorFlow/Keras, Python, OpenCV, Matplotlib.  
 
+#### **4. Biodiversity Analysis 🌱**  
+- **Objective**: Analyze biodiversity data for ecological insights.  
+- **Achievements**:  
+  - Visualized and analyzed species distribution data effectively.  
+  - Identified trends to support conservation efforts.  
+- **Technologies**: Python, Pandas, Matplotlib, Seaborn.  
 
-#### **4. Biodiversity Analysis (Basic) 🌱**  
-- **Objective**: Analyze biodiversity data to understand species distribution and conservation needs.  
-- **Key Features**:  
-  - Explored data using visualization and analysis tools.  
-  - Focused on identifying trends and presenting insights for ecological studies.  
-- **Technologies**: Python, Pandas, Matplotlib, Seaborn.
+---
 
 ### **Strengths**  
-- **Problem-Solving**: Skilled in tackling complex challenges with data-driven approaches.  
-- **Adaptability**: Quick to learn and excel in dynamic environments.  
-- **Communication**: Strong interpersonal and presentation skills for effective collaboration.  
-- **Creative Thinking**: Innovating unique solutions by blending technical expertise and creativity.  
+- **Problem-Solving**: Proven ability to solve complex data challenges efficiently.  
+- **Adaptability**: Flexible in dynamic environments and quick to learn new tools.  
+- **Communication**: Strong written and verbal skills for clear stakeholder collaboration.  
+- **Attention to Detail**: Ensures precision in analysis and reporting.  
 
+---
 
 ### **Let’s Connect**  
-- **LinkedIn**:www.linkedin.com/in/monika-gulia 
-- **Email**: monikagulia0216@gmail.com  
+📧 Email: monikagulia0216@gmail.com  
+🌐 LinkedIn: www.linkedin.com/in/monika-gulia 
 
-🚀 *Ready to drive impactful solutions and create value through data science!*  
+🚀 *Ready to contribute to impactful projects and create value through data science!*  
+

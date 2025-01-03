@@ -32,9 +32,20 @@ I’m Monika, a results-driven data scientist with a strong academic background 
 
 ### **Professional Experience**  
 
-#### **Data Science Intern**  
-- Developed and deployed predictive models, enhancing decision-making processes.  
-- Delivered real-world business insights through advanced data analytics and machine learning algorithms.  
+#### Data Visualisation: Empowering Business with Effective Insights
+**Data Analytics Virtual Internship**  
+**Forage (Data)**  
+- Developed and presented actionable business insights using advanced data visualisation techniques.  
+- Cleaned, transformed, and analysed datasets to create visually compelling and informative reports.  
+- Enhanced decision-making processes by leveraging storytelling through data visualisation tools.
+
+#### **Power BI Virtual Case Experience**  
+**Data Visualisation Intern**  
+**PwC (Forage)**  
+- Designed and built dynamic Power BI dashboards, enabling data-driven business strategies.  
+- Conducted data cleansing and preparation to ensure high-quality inputs for visualisation.  
+- Applied best practices in data storytelling to effectively communicate findings to stakeholders.  
+- Gained practical exposure to real-world business problems and Power BI applications in a corporate setting.  
 
 #### **Private Math & Data Science Tutor**  
 - Created tailored learning plans, improving students’ academic performance in mathematics and technical subjects.  

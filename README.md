@@ -60,7 +60,7 @@ A comprehensive bootcamp covering the entire data science lifecycle, including:
 
 ### **Projects**  
 
-#### **1. Stock Market Prediction 📈**  
+#### **1. Building Intelligent Approach for Stock Price Prediction using Machine Learning and LSTM  📈**  
 - **Objective**: Predict stock prices using machine learning models.  
 - **Achievements**:  
   - Achieved an accuracy of 83.4% using Random Forest and other ML algorithms.  

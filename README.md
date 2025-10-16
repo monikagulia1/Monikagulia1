@@ -1,14 +1,14 @@
 
 
 ### **Monika Gulia**  
-**Data Scientist | Financial & Business Analyst**  
+**Data Scientist |Attribution Modeling specialist**  
 🎓 *Master’s in Data Science* | Greenwich University, London  
 📧 monikagulia0216@gmail.com | 🌐 www.linkedin.com/in/monika-gulia |SE288NG(London)
 
 ---
 
 ### **About Me**  
-I’m Monika, a results-driven data scientist with a strong academic background and practical experience in financial analysis and business intelligence. I specialize in using data to uncover actionable insights, optimize decision-making, and drive impactful solutions. Passionate about leveraging advanced analytics and machine learning to solve real-world problems.
+I’m Monika, a data scientist experienced in analyzing real-world messy datasets and different models such as time decay, first-touch, last-touch, Markov chain, and neural network models.I enjoy transforming complex data into meaningful insights that drive better business decisions.
 
 ---
 
@@ -16,7 +16,7 @@ I’m Monika, a results-driven data scientist with a strong academic background 
 
 #### 🔍 **Core Competencies**  
 - **Programming**: Python, R, SQL  
-- **Machine Learning**: Predictive Modeling, Data Cleaning, Feature Engineering, Random Forest, Neural Networks  
+- **Machine Learning**: Modeling, Data Cleaning, Feature Engineering, Random Forest, Regression model ,Markov chain ,Neural Networks  
 - **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn  
 
 #### 📊 **Technical Expertise**  
@@ -31,6 +31,19 @@ I’m Monika, a results-driven data scientist with a strong academic background 
 ---
 
 ### **Professional Experience**  
+#### Alexander Prime Estate Agency – Data Scientist (Marketing Attribution Modeling)
+**London, UK**
+- Developed multi-touch attribution models including Time Decay, First-Touch, Last-Touch, Markov Chain, and Neural Network models.
+- Applied A/B testing to evaluate marketing performance and measure campaign effectiveness.
+- Processed and analyzed messy and incomplete customer journey data to uncover key marketing insights.
+- Delivered data-driven strategies to improve lead conversion, customer retention, and ROI.
+
+#### Children with Voices – Impact reporting & Data Analayst
+**London, UK**
+- Worked with handwritten and unstructured data, converting it into structured digital formats for analysis.
+- Designed and applied machine learning models to measure impact and outcomes across different datasets.
+- Handled messy, real-world data, improving accuracy through cleaning, validation, and transformation.
+
 
 #### Data Visualisation: Empowering Business with Effective Insights
 **Forage (Tata)**  

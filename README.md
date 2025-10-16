@@ -72,29 +72,32 @@ A comprehensive bootcamp covering the entire data science lifecycle, including:
 ---
 
 ### **Projects**  
+#### ** currently working on:-Multi-Touch Attribution Modeling | Alexander Prime Estate Agency
+Built POC attribution models (Time Decay, First-Touch, Last-Touch, Markov Chain, Neural Network) using messy marketing data. Applied A/B testing to measure campaign impact and improve ROI.
+Tech: Python, Pandas, Scikit-learn, Power BI, TensorFlow  
 
-#### **1. Building Intelligent Approach for Stock Price Prediction using Machine Learning and LSTM  📈**  
+#### **2. Building Intelligent Approach for Stock Price Prediction using Machine Learning and LSTM  📈**  
 - **Objective**: Predict stock prices using machine learning models.  
 - **Achievements**:  
   - Achieved an accuracy of 83.4% using Random Forest and other ML algorithms.  
   - Preprocessed data to handle noise and identify trends through rolling windows.  
 - **Technologies**: Python, NumPy, Pandas, Scikit-learn, Matplotlib.  
 
-#### **2. Sentiment Analysis 📝**  
+#### **3. Sentiment Analysis 📝**  
 - **Objective**: Classify product reviews into sentiments (positive, neutral, negative).  
 - **Achievements**:  
   - Achieved an F1 score of 94% by using SMOTE to handle class imbalance.  
   - Provided actionable insights by categorizing neutral reviews as constructive feedback.  
 - **Technologies**: VADER, Python, NLTK, Scikit-learn, Seaborn.  
 
-#### **3. CNN for Image Classification 🖼️**  
+#### **4. CNN for Image Classification 🖼️**  
 - **Objective**: Classify images using Convolutional Neural Networks.  
 - **Achievements**:  
   - Built a robust CNN model with dropout layers to prevent overfitting.  
   - Used ReLU activation for non-linearity and achieved high accuracy in classification.  
 - **Technologies**: TensorFlow/Keras, Python, OpenCV, Matplotlib.  
 
-#### **4. Biodiversity Analysis 🌱**  
+#### **5. Biodiversity Analysis 🌱**  
 - **Objective**: Analyze biodiversity data for ecological insights.  
 - **Achievements**:  
   - Visualized and analyzed species distribution data effectively.  
